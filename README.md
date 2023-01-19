@@ -1,5 +1,12 @@
 # collabo
-즐거운 팀플
+즐거운 팀플 
+
+
+ENFP 
+- e
+- n
+- f
+- p
 
 ISFP
 
@@ -7,3 +14,4 @@ ISFP
 - S
 - F
 - P
+
